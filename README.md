@@ -1,6 +1,15 @@
-# Horiseon Refactor
+# Horiseon Website Code Refactor
 
-Refactoring the existing Horiseon website code to meet the following
+Refactoring the existing Horiseon website code to meet the specified accessibility
+standards and make the site more understandable to search engines.
+
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
 ## Criteria
 
